@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-website for rafe chang
+this is a website for rafe chang
