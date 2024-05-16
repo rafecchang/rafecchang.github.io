@@ -1,5 +1,0 @@
----
-title: "Projects"
----
-
-this is a website for rafe chang
