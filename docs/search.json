@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "about",
     "section": "",
-    "text": "this is a website for rafe chang"
+    "text": "I like data science, everything about energy, house music, and surfing;)"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Quarto_website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Here are some stuffs I have worked on"
   }
 ]

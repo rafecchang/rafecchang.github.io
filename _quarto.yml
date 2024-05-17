@@ -9,9 +9,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - herf: about.qmd
+      - href: pages/about.qmd
         text: who am I 
-      - herf: projects.qmd 
+      - href: pages/projects.qmd 
         text: what I've done
 
 format:
