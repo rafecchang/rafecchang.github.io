@@ -2,22 +2,43 @@
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "about",
+    "title": "About",
     "section": "",
-    "text": "I like data science, everything about energy, house music, and surfing;)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto_website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;)"
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
-    "title": "projects",
+    "title": "Rafe Chang",
     "section": "",
-    "text": "Here are some stuffs I have worked on"
+    "text": "I code and I write."
+  },
+  {
+    "objectID": "pages/projects.html#pvpmsimulator",
+    "href": "pages/projects.html#pvpmsimulator",
+    "title": "Rafe Chang",
+    "section": "pvpmSimulator",
+    "text": "pvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: pvlib, Air.gov api\nWeb App: pvpmSimulator (use Chrome)"
+  },
+  {
+    "objectID": "pages/projects.html#salmon-saver",
+    "href": "pages/projects.html#salmon-saver",
+    "title": "Rafe Chang",
+    "section": "Salmon Saver",
+    "text": "Salmon Saver\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival"
+  },
+  {
+    "objectID": "pages/projects.html#solar-savers",
+    "href": "pages/projects.html#solar-savers",
+    "title": "Rafe Chang",
+    "section": "Solar Savers",
+    "text": "Solar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
+  },
+  {
+    "objectID": "pages/projects.html#energy-in-the-news",
+    "href": "pages/projects.html#energy-in-the-news",
+    "title": "Rafe Chang",
+    "section": "Energy in the News",
+    "text": "Energy in the News\n\nDescription: I cover energy news for the UBC student community.\nBlog: Student Energy UBC"
   }
 ]

@@ -4,7 +4,7 @@ project:
   
 
 website:
-  title: "rafecchang"
+  title: "Rafe Chang"
   navbar:
     left:
       - href: index.qmd

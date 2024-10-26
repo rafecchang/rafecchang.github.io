@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 ---
 
-I like data science, everything about energy, house music, and surfing;) 
+Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;) 
