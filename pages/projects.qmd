@@ -1,21 +1,30 @@
 I code and I write. 
 
-## pvpmSimulator
+## Coding Projects 
+Here are some of my course and side projects. 
+
+
+### pvpmSimulator
 - **Description**: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.
 - **Tools Used**: pvlib, Air.gov api 
 - **Web App**: [pvpmSimulator](https://pvpmsimulator.streamlit.app/) (use Chrome)
 
-## Salmon Saver
+### Salmon Saver
 - **Description**: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis. 
 - **Tools Used**: PL/Python, SQL, XGBoost
 - **GitHub Repo**: [Bottlenecks to Survival](https://github.com/brahmwg/Bottlenecks_MDS_Capstone)
 
-## Solar Savers
+### Solar Savers
 - **Description**: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location. 
 - **Tools Used**: dash
 - **GitHub Repo**: [Solar Savers](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)
 - **Dashboard**: [Solar Savers](https://dsci-532-2024-9-solar-savers.onrender.com/)
 
-## Energy in the News 
+## Writing Projects 
+I write
+
+
+### Energy in the News 
 - **Description**: I cover energy news for the UBC student community. 
-- **Blog**: [Student Energy UBC](https://www.studentenergyubc.com/blog) 
+- **Latest Story**: [Transportation Goes Hydrogen](https://www.studentenergyubc.com/post/transportation-goes-hydrogen)
+- **Full List**: [Student Energy UBC](https://www.studentenergyubc.com/blog) 
