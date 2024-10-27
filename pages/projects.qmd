@@ -21,7 +21,6 @@ Here are some of my course and side projects.
 - **Dashboard**: [Solar Savers](https://dsci-532-2024-9-solar-savers.onrender.com/)
 
 ## Writing Projects 
-I write
 
 
 ### Energy in the News 
