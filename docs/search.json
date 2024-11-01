@@ -4,21 +4,21 @@
     "href": "pages/about.html",
     "title": "Rafe Chang",
     "section": "",
-    "text": "Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;)"
+    "text": "A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
   },
   {
     "objectID": "pages/about.html#summary",
     "href": "pages/about.html#summary",
     "title": "Rafe Chang",
-    "section": "Summary",
-    "text": "Summary\nA globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
+    "section": "",
+    "text": "A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
   },
   {
     "objectID": "pages/about.html#professional-experience",
     "href": "pages/about.html#professional-experience",
     "title": "Rafe Chang",
     "section": "Professional Experience",
-    "text": "Professional Experience\nData Scientist (Capstone) @ Pacific Salmon Foundation\n\nWrangled data using sql for conduct survival analysis and outmigration model\nDeveloped a logistic regression model and a SARIMAX model to predict salmon outmigration timing\n\nMarketing Specialist @ Nebraska College Rodeo Program\n\nDeveloped webpage using HTML and CSS; shoot and edit content and analyzed performance on Instagram\nCreated marketing plans; led and allocated work among five group members\n\nBranding Strategy& Business Analytics Extern @ Beats by Dr. Dre\n\nDesigned and conducted marketing research; presented outcome to advice advertisement improvement\nExamined data with hypothesis testing; visualized data analysis results with perceptual mapping\n\nStudent Consultant @ Union Pacific Railroad\n\nResearched US electrical vehicles market and Lithium-Ion battery materials; projected demand for minerals and developed logistic plans with potential revenue"
+    "text": "Professional Experience\nData Scientist (Capstone) @ Pacific Salmon Foundation\nTo support biologists in modeling salmon survival, I developed predictions for outmigration timing, enabling efficient resource allocation for tagging fish in rivers. My contributions included:\n\nWrote complex SQL queries to retrieve data from a relational database with 15 interconnected tables\nCleaned and preprocessed data using pandas guided by exploratory data analysis\nExperimented with multiple modeling approaches, including SARIMAX, linear regression, and logistic regression, before selecting and developing a final XGBoost model\n\nMarketing Specialist @ Nebraska College Rodeo Program\nIn the months leading up to the annual rodeo, the program sought ways to increase attendance; I boosted team members’ online presence. My contribution included:\n\nDeveloped webpage using HTML and CSS\nShoot, edited and posted content on Instagram; analyzed performance metrics to optimize engagement\n\nBranding Strategy& Business Analytics Extern @ Beats by Dr. Dre\nTo evaluate the effectiveness of its advertisement among Gen Z audiences, I designed and conducted a comprehensive marketing research project. My contribution include:\n\nDesigned research framework based on conversion funnel; successfully sampling 5.57% of the target population to gather primary data\n\nAnalyzed result with hypothesis testing (chi-square analysis) and perceptual mapping (dimensionality reduction)\n\nStudent Consultant @ Union Pacific Railroad\nIn response to trends in deforestation, renewable diesel, and domestic electric vehicle production, I identified potential customers and developed logistic plans accordingly. My contribution include:\n\nAnalyzed the U.S. electrical vehicles market and fit linear modeling to extend on existing prediction\nResearched materials of various Lithium-Ion battery models; projected mineral demand by combining findings from electrical vehicle market analysis\nDeveloped logistic plans and estimated potential revenue after identifying the site locations along the battery production chain"
   },
   {
     "objectID": "pages/about.html#education",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome home and look around!",
     "section": "",
-    "text": "Alexa play music"
+    "text": "Welcome home; Alexa play music!\nI’m Rafe and I am still working on this, but long story short- I like data science, everything about energy, house music, and surfing;)"
   },
   {
     "objectID": "pages/projects.html",

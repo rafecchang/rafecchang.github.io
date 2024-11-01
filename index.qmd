@@ -1,4 +1,7 @@
 ---
 title: "Welcome home and look around! "
 ---
-[Alexa play music](https://www.youtube.com/watch?v=z9boCCK7M8c&t=40s)
+Welcome home; [Alexa play music!](https://www.youtube.com/watch?v=z9boCCK7M8c&t=40s) 
+
+I'm Rafe and I am still working on this, but long story short- I like data science, everything about energy, house music, and surfing;) 
+

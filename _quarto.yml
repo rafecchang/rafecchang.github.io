@@ -6,6 +6,11 @@ project:
 website:
   title: "Rafe Chang"
   navbar:
+    tools:
+      - icon: linkedin
+        href: www.linkedin.com/in/rafechang
+      - icon: github
+        href: https://github.com/rafecchang
     left:
       - href: index.qmd
         text: Home

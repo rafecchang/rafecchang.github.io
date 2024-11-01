@@ -1,30 +1,40 @@
-Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;) 
-
 ## Summary 
 A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells.
 
 ## Professional Experience 
 **Data Scientist (Capstone)** *@ Pacific Salmon Foundation*
 
-- Wrangled data using sql for conduct survival analysis and outmigration model
-- Developed a logistic regression model and a SARIMAX model to predict salmon outmigration timing
+To support biologists in modeling salmon survival, I developed predictions for outmigration timing, enabling efficient resource allocation for tagging fish in rivers. My contributions included:
+
+- Wrote complex SQL queries to retrieve data from a relational database with 15 interconnected tables 
+- Cleaned and preprocessed data using pandas guided by exploratory data analysis
+- Experimented with multiple modeling approaches, including SARIMAX, linear regression, and logistic regression, before selecting and developing a final XGBoost model 
 
 
 **Marketing Specialist** *@ Nebraska College Rodeo Program* 
 
-- Developed webpage using HTML and CSS; shoot and edit content and analyzed performance on Instagram
-- Created marketing plans; led and allocated work among five group members
+In the months leading up to the annual rodeo, the program sought ways to increase attendance; I boosted team members’ online presence. My contribution included:  
+
+- Developed webpage using HTML and CSS
+- Shoot, edited and posted content on Instagram; analyzed performance metrics to optimize engagement
 
 
 **Branding Strategy& Business Analytics Extern** *@ Beats by Dr. Dre* 
 
-- Designed and conducted marketing research; presented outcome to advice advertisement improvement
-- Examined data with hypothesis testing; visualized data analysis results with perceptual mapping
+To evaluate the effectiveness of its advertisement among Gen Z audiences, I designed and conducted a comprehensive marketing research project. My contribution include: 
+
+- Designed research framework based on conversion funnel; successfully sampling 5.57% of the target population to gather primary data  
+- Analyzed result with hypothesis testing (chi-square analysis) and perceptual mapping (dimensionality reduction) 
 
 
 **Student Consultant** *@ Union Pacific Railroad* 
 
-- Researched US electrical vehicles market and Lithium-Ion battery materials; projected demand for minerals and developed logistic plans with potential revenue
+In response to trends in deforestation, renewable diesel, and domestic electric vehicle production, I identified potential customers and developed logistic plans accordingly. My contribution include: 
+
+- Analyzed the U.S. electrical vehicles market and fit linear modeling to extend on existing prediction 
+- Researched materials of various Lithium-Ion battery models; projected mineral demand by combining findings from electrical vehicle market analysis
+- Developed logistic plans and estimated potential revenue after identifying the site locations along the battery production chain 
+
 
 
 
