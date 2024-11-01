@@ -2,9 +2,30 @@
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "About",
+    "title": "Rafe Chang",
     "section": "",
     "text": "Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;)"
+  },
+  {
+    "objectID": "pages/about.html#summary",
+    "href": "pages/about.html#summary",
+    "title": "Rafe Chang",
+    "section": "Summary",
+    "text": "Summary\nA globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
+  },
+  {
+    "objectID": "pages/about.html#professional-experience",
+    "href": "pages/about.html#professional-experience",
+    "title": "Rafe Chang",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nData Scientist (Capstone) @ Pacific Salmon Foundation\n\nWrangled data using sql for conduct survival analysis and outmigration model\nDeveloped a logistic regression model and a SARIMAX model to predict salmon outmigration timing\n\nMarketing Specialist @ Nebraska College Rodeo Program\n\nDeveloped webpage using HTML and CSS; shoot and edit content and analyzed performance on Instagram\nCreated marketing plans; led and allocated work among five group members\n\nBranding Strategy& Business Analytics Extern @ Beats by Dr. Dre\n\nDesigned and conducted marketing research; presented outcome to advice advertisement improvement\nExamined data with hypothesis testing; visualized data analysis results with perceptual mapping\n\nStudent Consultant @ Union Pacific Railroad\n\nResearched US electrical vehicles market and Lithium-Ion battery materials; projected demand for minerals and developed logistic plans with potential revenue"
+  },
+  {
+    "objectID": "pages/about.html#education",
+    "href": "pages/about.html#education",
+    "title": "Rafe Chang",
+    "section": "Education",
+    "text": "Education\nMaster of Data Science @ University of British Columbia-Vancouver\n\nRelavent Courses: Supervised and Unsupervised Learning, Spatial and Temporal Modeling, Databases, Software Development, Cloud Computing, Bayesian and Frequentist Inference, Experimentation and Causal Inference\n\nBachelor of Science in Business Administration (Honors) @ University of Nebraska-Lincoln"
   },
   {
     "objectID": "index.html",
@@ -25,13 +46,13 @@
     "href": "pages/projects.html#coding-projects",
     "title": "Rafe Chang",
     "section": "Coding Projects",
-    "text": "Coding Projects\nHere are some of my course and side projects.\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: pvlib, Air.gov api\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nSalmon Saver\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nSolar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
+    "text": "Coding Projects\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: Streamlit, pvlib-python, AirNow.gov API\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nSalmon Saver\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nSolar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: Dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
   },
   {
     "objectID": "pages/projects.html#writing-projects",
     "href": "pages/projects.html#writing-projects",
     "title": "Rafe Chang",
     "section": "Writing Projects",
-    "text": "Writing Projects\n\nEnergy in the News\n\nDescription: I cover energy news for the UBC student community.\nLatest Story: Transportation Goes Hydrogen\nFull List: Student Energy UBC"
+    "text": "Writing Projects\n\nEnergy in the News\n\nDescription: A series of energy news written for the UBC student community.\nLatest Story: Transportation Goes Hydrogen\nFull List: Student Energy UBC"
   }
 ]

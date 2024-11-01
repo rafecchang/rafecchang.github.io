@@ -1,5 +1,36 @@
----
-title: "About"
----
-
 Still working on this, but long story short- I like data science, everything about energy, house music, and surfing;) 
+
+## Summary 
+A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells.
+
+## Professional Experience 
+**Data Scientist (Capstone)** *@ Pacific Salmon Foundation*
+
+- Wrangled data using sql for conduct survival analysis and outmigration model
+- Developed a logistic regression model and a SARIMAX model to predict salmon outmigration timing
+
+
+**Marketing Specialist** *@ Nebraska College Rodeo Program* 
+
+- Developed webpage using HTML and CSS; shoot and edit content and analyzed performance on Instagram
+- Created marketing plans; led and allocated work among five group members
+
+
+**Branding Strategy& Business Analytics Extern** *@ Beats by Dr. Dre* 
+
+- Designed and conducted marketing research; presented outcome to advice advertisement improvement
+- Examined data with hypothesis testing; visualized data analysis results with perceptual mapping
+
+
+**Student Consultant** *@ Union Pacific Railroad* 
+
+- Researched US electrical vehicles market and Lithium-Ion battery materials; projected demand for minerals and developed logistic plans with potential revenue
+
+
+
+## Education 
+**Master of Data Science** *@ University of British Columbia-Vancouver*
+
+- Relavent Courses: Supervised and Unsupervised Learning, Spatial and Temporal Modeling, Databases, Software Development, Cloud Computing, Bayesian and Frequentist Inference, Experimentation and Causal Inference
+
+**Bachelor of Science in Business Administration (Honors)** *@ University of Nebraska-Lincoln* 
