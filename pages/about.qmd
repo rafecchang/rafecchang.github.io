@@ -11,13 +11,6 @@ To support biologists in modeling salmon survival, I developed predictions for o
 - Experimented with multiple modeling approaches, including SARIMAX, linear regression, and logistic regression, before selecting and developing a final XGBoost model 
 
 
-**Marketing Specialist** *@ Nebraska College Rodeo Program* 
-
-In the months leading up to the annual rodeo, the program sought ways to increase attendance; I boosted team members’ online presence. My contribution included:  
-
-- Developed webpage using HTML and CSS
-- Shoot, edited and posted content on Instagram; analyzed performance metrics to optimize engagement
-
 
 **Branding Strategy& Business Analytics Extern** *@ Beats by Dr. Dre* 
 
@@ -36,6 +29,12 @@ In response to trends in deforestation, renewable diesel, and domestic electric 
 - Developed logistic plans and estimated potential revenue after identifying the site locations along the battery production chain 
 
 
+**Marketing Specialist** *@ Nebraska College Rodeo Program* 
+
+In the months leading up to the annual rodeo, the program sought ways to increase attendance; I boosted team members’ online presence. My contribution included:  
+
+- Developed webpage using HTML and CSS
+- Shoot, edited and posted content on Instagram; analyzed performance metrics to optimize engagement
 
 
 ## Education 
