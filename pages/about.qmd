@@ -7,7 +7,7 @@ A globally minded data scientist passionate about using analytical skills to imp
 To support biologists in modeling salmon survival, I developed predictions for outmigration timing, enabling efficient resource allocation for tagging fish in rivers. My contributions included:
 
 - Wrote complex SQL queries to retrieve data from a relational database with 15 interconnected tables 
-- Cleaned and preprocessed data using pandas guided by exploratory data analysis
+- Conducted exploratory data analysis for data cleaning and preprocessing with pandas
 - Experimented with multiple modeling approaches, including SARIMAX, linear regression, and logistic regression, before selecting and developing a final XGBoost model 
 
 
