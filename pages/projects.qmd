@@ -1,4 +1,5 @@
-I code and I write. 
+I create data products and articles to provide insights on energy and environmental topics.
+
 
 ## Coding Projects 
 
@@ -8,7 +9,7 @@ I code and I write.
 - **Tools Used**: Streamlit, pvlib-python, AirNow.gov API 
 - **Web App**: [pvpmSimulator](https://pvpmsimulator.streamlit.app/) (use Chrome)
 
-### Salmon Saver
+### Salmon Savers
 - **Description**: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis. 
 - **Tools Used**: PL/Python, SQL, XGBoost
 - **GitHub Repo**: [Bottlenecks to Survival](https://github.com/brahmwg/Bottlenecks_MDS_Capstone)
@@ -24,5 +25,5 @@ I code and I write.
 
 ### Energy in the News 
 - **Description**: A series of energy news written for the UBC student community. 
-- **Latest Story**: [Transportation Goes Hydrogen](https://www.studentenergyubc.com/post/transportation-goes-hydrogen)
+- **Latest Story**: [Cali Went Too Sunny](https://www.studentenergyubc.com/post/cali-went-too-sunny)
 - **Full List**: [Student Energy UBC](https://www.studentenergyubc.com/blog) 

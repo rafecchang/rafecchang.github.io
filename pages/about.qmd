@@ -1,5 +1,5 @@
 ## Summary 
-A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells.
+Data scientist with a global perspective, skilled in applying advanced machine learning, statistical modeling, and geospatial analysis to drive sustainable energy solutions. Experienced in analyzing electric vehicle and lithium-ion battery markets, solar energy feasibility, and energy efficiency dashboards. Passionate about using data to support energy innovations and climate-positive actions.
 
 ## Professional Experience 
 **Data Scientist (Capstone)** *@ Pacific Salmon Foundation*
@@ -40,6 +40,7 @@ In the months leading up to the annual rodeo, the program sought ways to increas
 ## Education 
 **Master of Data Science** *@ University of British Columbia-Vancouver*
 
-- Relavent Courses: Supervised and Unsupervised Learning, Spatial and Temporal Modeling, Databases, Software Development, Cloud Computing, Bayesian and Frequentist Inference, Experimentation and Causal Inference
+- •Relavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair), Database (PostgreSQL), Software Development, Cloud Computing, Bayesian and Frequentist Inference (r), Experimentation and Causal Inference
 
 **Bachelor of Science in Business Administration (Honors)** *@ University of Nebraska-Lincoln* 
+**Bachelor of Science in Politics, Psychology, Law, and Economics (Erasmus)** *@ University of Amsterdam* 

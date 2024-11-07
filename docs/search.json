@@ -4,14 +4,14 @@
     "href": "pages/about.html",
     "title": "Rafe Chang",
     "section": "",
-    "text": "A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
+    "text": "Data scientist with a global perspective, skilled in applying advanced machine learning, statistical modeling, and geospatial analysis to drive sustainable energy solutions. Experienced in analyzing electric vehicle and lithium-ion battery markets, solar energy feasibility, and energy efficiency dashboards. Passionate about using data to support energy innovations and climate-positive actions."
   },
   {
     "objectID": "pages/about.html#summary",
     "href": "pages/about.html#summary",
     "title": "Rafe Chang",
     "section": "",
-    "text": "A globally minded data scientist passionate about using analytical skills to improve sustainability solutions. Experience in electric vehicle market research, lithium-ion battery demand analysis, solar energy system installation feasibility analysis; knowledge and interest in energy systems and perovskite solar cells."
+    "text": "Data scientist with a global perspective, skilled in applying advanced machine learning, statistical modeling, and geospatial analysis to drive sustainable energy solutions. Experienced in analyzing electric vehicle and lithium-ion battery markets, solar energy feasibility, and energy efficiency dashboards. Passionate about using data to support energy innovations and climate-positive actions."
   },
   {
     "objectID": "pages/about.html#professional-experience",
@@ -25,7 +25,7 @@
     "href": "pages/about.html#education",
     "title": "Rafe Chang",
     "section": "Education",
-    "text": "Education\nMaster of Data Science @ University of British Columbia-Vancouver\n\nRelavent Courses: Supervised and Unsupervised Learning, Spatial and Temporal Modeling, Databases, Software Development, Cloud Computing, Bayesian and Frequentist Inference, Experimentation and Causal Inference\n\nBachelor of Science in Business Administration (Honors) @ University of Nebraska-Lincoln"
+    "text": "Education\nMaster of Data Science @ University of British Columbia-Vancouver\n\n•Relavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair), Database (PostgreSQL), Software Development, Cloud Computing, Bayesian and Frequentist Inference (r), Experimentation and Causal Inference\n\nBachelor of Science in Business Administration (Honors) @ University of Nebraska-Lincoln Bachelor of Science in Politics, Psychology, Law, and Economics (Erasmus) @ University of Amsterdam"
   },
   {
     "objectID": "index.html",
@@ -39,20 +39,20 @@
     "href": "pages/projects.html",
     "title": "Rafe Chang",
     "section": "",
-    "text": "I code and I write."
+    "text": "I create data products and articles to provide insights on energy and environmental topics."
   },
   {
     "objectID": "pages/projects.html#coding-projects",
     "href": "pages/projects.html#coding-projects",
     "title": "Rafe Chang",
     "section": "Coding Projects",
-    "text": "Coding Projects\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: Streamlit, pvlib-python, AirNow.gov API\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nSalmon Saver\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nSolar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: Dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
+    "text": "Coding Projects\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: Streamlit, pvlib-python, AirNow.gov API\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nSalmon Savers\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nSolar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: Dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
   },
   {
     "objectID": "pages/projects.html#writing-projects",
     "href": "pages/projects.html#writing-projects",
     "title": "Rafe Chang",
     "section": "Writing Projects",
-    "text": "Writing Projects\n\nEnergy in the News\n\nDescription: A series of energy news written for the UBC student community.\nLatest Story: Transportation Goes Hydrogen\nFull List: Student Energy UBC"
+    "text": "Writing Projects\n\nEnergy in the News\n\nDescription: A series of energy news written for the UBC student community.\nLatest Story: Cali Went Too Sunny\nFull List: Student Energy UBC"
   }
 ]
