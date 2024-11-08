@@ -25,7 +25,7 @@
     "href": "pages/about.html#education",
     "title": "Rafe Chang",
     "section": "Education",
-    "text": "Education\nMaster of Data Science @ University of British Columbia-Vancouver\n\nRelavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair), Database (PostgreSQL), Software Development, Cloud Computing, Bayesian and Frequentist Inference (r), Experimentation and Causal Inference\n\nBachelor of Science in Business Administration (Honors) @ University of Nebraska-Lincoln Bachelor of Science in Politics, Psychology, Law, and Economics (Erasmus) @ University of Amsterdam"
+    "text": "Education\nMaster of Data Science @ University of British Columbia-Vancouver\n\nRelavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair, ggplot2), Database (PostgreSQL), Software Development, Cloud Computing (AWS), Bayesian and Frequentist Inference (r), Experimentation and Causal Inference\n\nBachelor of Science in Business Administration (Honors) @ University of Nebraska-Lincoln Bachelor of Science in Politics, Psychology, Law, and Economics (Erasmus) @ University of Amsterdam"
   },
   {
     "objectID": "index.html",

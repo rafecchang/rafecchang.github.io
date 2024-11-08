@@ -40,7 +40,7 @@ In the months leading up to the annual rodeo, the program sought ways to increas
 ## Education 
 **Master of Data Science** *@ University of British Columbia-Vancouver*
 
-- Relavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair), Database (PostgreSQL), Software Development, Cloud Computing, Bayesian and Frequentist Inference (r), Experimentation and Causal Inference
+- Relavent Courses: Supervised and Unsupervised Learning (sklearn, PyTorch), Spatial and Temporal Modeling (geopandas, statsmodels), Data Visualization (matplotlib, Vega-Altair, ggplot2), Database (PostgreSQL), Software Development, Cloud Computing (AWS), Bayesian and Frequentist Inference (r), Experimentation and Causal Inference
 
 **Bachelor of Science in Business Administration (Honors)** *@ University of Nebraska-Lincoln* 
 **Bachelor of Science in Politics, Psychology, Law, and Economics (Erasmus)** *@ University of Amsterdam* 
