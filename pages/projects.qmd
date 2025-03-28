@@ -5,7 +5,7 @@ I create data products and content to deliver insights on energy and the environ
 ### climateDebunkers
 - **Description**: A lightweight language model classifying quotes into eight different categories.
 - **Tools Used**: NLPAug, DistilBERT, Optuna
-- **GitHub Repo**: [CimateDebunk](https://github.com/brahmwg/Bottlenecks_MDS_Capstone)
+- **GitHub Repo**: [CimateDebunk](https://github.com/hbandukw/ClimateDebunk)
 
 ### pvpmSimulator
 - **Description**: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.
