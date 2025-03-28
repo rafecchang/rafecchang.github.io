@@ -2,20 +2,24 @@ I create data products and content to deliver insights on energy and the environ
 
 ## Coding Projects 
 
+### climateDebunkers
+- **Description**: A lightweight language model classifying quotes into eight different categories.
+- **Tools Used**: NLPAug, DistilBERT, Optuna
+- **GitHub Repo**: [CimateDebunk](https://github.com/brahmwg/Bottlenecks_MDS_Capstone)
 
 ### pvpmSimulator
 - **Description**: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.
 - **Tools Used**: Streamlit, pvlib-python, AirNow.gov API 
 - **Web App**: [pvpmSimulator](https://pvpmsimulator.streamlit.app/) (use Chrome)
 
-### Salmon Savers
-- **Description**: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis. 
-- **Tools Used**: PL/Python, SQL, XGBoost
+### salmonSavers
+- **Description**: A pipeline predicting salmon outmigration timing to optimize fieldwork timing for salmon survival analysis. 
+- **Tools Used**: PL/Python, PL/SQL, XGBoost
 - **GitHub Repo**: [Bottlenecks to Survival](https://github.com/brahmwg/Bottlenecks_MDS_Capstone)
 
-### Solar Savers
+### solarSavers
 - **Description**: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location. 
-- **Tools Used**: Dash
+- **Tools Used**: GeoPy, GeoPandas, Dash
 - **GitHub Repo**: [Solar Savers](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)
 - **Dashboard**: [Solar Savers](https://dsci-532-2024-9-solar-savers.onrender.com/)
 

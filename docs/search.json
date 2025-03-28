@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome home and look around!",
+    "title": "Hi from Vancouver!",
     "section": "",
-    "text": "Welcome home; Alexa play music!\n\nI’m Rafe and I am still working on this, but long story short- I like data science, everything about energy, house music, and surfing;)"
+    "text": "Hello! This is Rafe; I am a recent graduate from the University of British Columbia. I studied data science- which is a lot of machine learning, statistics, and visualization, with some algorithm, database, and cloud computing. Besides data science, I am passionate in everything energy, with more in-depth knowledge in perovskite and the electricity grid. Currently learning about climate change at Terra.do!\nBesides data and energy, I enjoy skiing, surfing, and house music;)"
   },
   {
     "objectID": "pages/projects.html",
@@ -46,7 +46,7 @@
     "href": "pages/projects.html#coding-projects",
     "title": "Rafe Chang",
     "section": "Coding Projects",
-    "text": "Coding Projects\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: Streamlit, pvlib-python, AirNow.gov API\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nSalmon Savers\n\nDescription: A pipeline with XGBoost modeling that predicts salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nSolar Savers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: Dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
+    "text": "Coding Projects\n\nclimateDebunkers\n\nDescription: A lightweight language model classifying quotes into eight different categories.\nTools Used: NLPAug, DistilBERT, Optuna\nGitHub Repo: CimateDebunk\n\n\n\npvpmSimulator\n\nDescription: A web app providing real-time and customizable simulation that calculates the solar energy potential loss caused by PM2.5.\nTools Used: Streamlit, pvlib-python, AirNow.gov API\nWeb App: pvpmSimulator (use Chrome)\n\n\n\nsalmonSavers\n\nDescription: A pipeline predicting salmon outmigration timing to optimize fieldwork timing for salmon survival analysis.\nTools Used: PL/Python, PL/SQL, XGBoost\nGitHub Repo: Bottlenecks to Survival\n\n\n\nsolarSavers\n\nDescription: A dashboard assisting Canadian homeowners to choose the optimal panel by calculating energy and financial savings at a given location.\nTools Used: GeoPy, GeoPandas, Dash\nGitHub Repo: Solar Savers\nDashboard: Solar Savers"
   },
   {
     "objectID": "pages/projects.html#writing-projects",

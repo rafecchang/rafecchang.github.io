@@ -1,10 +1,18 @@
 ---
-title: "Welcome home and look around! "
+title: "Hi from Vancouver! "
 image: images/headshot.jpg
 ---
-Welcome home; [Alexa play music!](https://www.youtube.com/watch?v=z9boCCK7M8c&t=40s) 
 
+::: {.columns}
+::: {.column width="40%"}
 ![](images/headshot.jpg)
+:::
+::: {.column width="5%"}
 
-I'm Rafe and I am still working on this, but long story short- I like data science, everything about energy, house music, and surfing;) 
+::: 
+::: {.column width="55%"}
+Hello! This is Rafe; I am a recent graduate from the University of British Columbia. I studied data science- which is a lot of machine learning, statistics, and visualization, with some algorithm, database, and cloud computing. Besides data science, I am passionate in everything energy, with more in-depth knowledge in perovskite and the electricity grid. Currently learning about climate change at Terra.do!
 
+Besides data and energy, I enjoy skiing, surfing, and house music;)
+:::
+:::
