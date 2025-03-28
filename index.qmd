@@ -1,5 +1,6 @@
 ---
 title: "Welcome home and look around! "
+image: images/headshot.jpg
 ---
 Welcome home; [Alexa play music!](https://www.youtube.com/watch?v=z9boCCK7M8c&t=40s) 
 
