@@ -11,7 +11,7 @@ image: images/headshot.jpg
 
 ::: 
 ::: {.column width="55%"}
-Hello! This is Rafe; I am a recent graduate from the University of British Columbia. I studied data science- which is a lot of machine learning, statistics, and visualization, with some algorithm, database, and cloud computing. Besides data science, I am passionate in everything energy, with more in-depth knowledge in perovskite and the electricity grid. Currently learning about climate change at Terra.do!
+Hello! This is Rafe; I am a recent graduate from the [University of British Columbia](https://masterdatascience.ubc.ca/programs/vancouver). I studied data science- which is a lot of machine learning, statistics, and visualization, with some algorithm, database, and cloud computing. Besides data science, I am passionate in everything energy, with more in-depth knowledge in perovskite and the electricity grid. Currently learning about climate change at [Terra.do](https://www.terra.do/climate-fellowship-learning-for-action/)!
 
 Besides data and energy, I enjoy skiing, surfing, and house music;)
 :::
